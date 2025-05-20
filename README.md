@@ -13,7 +13,7 @@
 
 🌱 I’m learning **Full Stack Web Development**, **MySQL**, and **Advanced C++**  
 💬 Ask me about **C/C++**, **DSA**, **Python**, and **Web Basics**  
-📫 Reach me at: maheshwari.email@example.com  
+📫 Reach me at: maheshwareeishwarshette29@gmail.com   
 📁 Fun Fact: I created my GitHub account in 2021 but started using it actively in 2025 🚀  
 
 ---
